@@ -66,7 +66,7 @@ jobs:
     - name: Clone extra luci source code
       run: |
         git clone https://github.com/Kinodi/luci-theme-atmaterial openwrt/package/luci-theme-atmaterial
-        git clone https://github.com/stephenchou888/openwrt-package openwrt/package/luci-app-passwall
+        git clone https://github.com/stephenchou888/openwrt-passwall openwrt/package/luci-app-passwall
         
     - name: Update & Install feeds
       working-directory: ./openwrt
