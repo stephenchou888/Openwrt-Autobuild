@@ -12,4 +12,6 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome package/diy-pack
 # 获取主题
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git package/diy-packages/luci-theme-infinityfreedom
 git clone https://github.com/Kinodi/luci-theme-atmaterial package/diy-packages/luci-theme-atmaterial
-        
+# 获取hello world和依赖
+git clone https://github.com/jerrykuku/lua-maxminddb package/diy-packages/helloworld/lua-maxminddb
+git clone https://github.com/jerrykuku/luci-app-vssr package/diy-packages/helloworld/luci-app-vssr
