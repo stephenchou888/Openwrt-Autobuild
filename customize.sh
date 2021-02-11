@@ -12,6 +12,7 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome openwrt/package/
 # 获取主题
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git openwrt/package/luci-theme-infinityfreedom
 git clone https://github.com/Kinodi/luci-theme-atmaterial openwrt/package/luci-theme-atmaterial
+git clone https://github.com/sirpdboy/luci-theme-opentopd openwrt/package/luci-theme-opentopd
 # 获取hello world和依赖
 git clone https://github.com/jerrykuku/lua-maxminddb openwrt/package/helloworld/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr openwrt/package/helloworld/luci-app-vssr
