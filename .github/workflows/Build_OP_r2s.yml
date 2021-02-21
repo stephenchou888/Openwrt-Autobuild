@@ -77,7 +77,7 @@ jobs:
         git clone https://github.com/garypang13/luci-app-dnsfilter openwrt/package/luci-app-dnsfilter
         git clone https://github.com/Kinodi/luci-theme-atmaterial openwrt/package/luci-theme-atmaterial
         git clone https://github.com/sirpdboy/luci-theme-opentopd openwrt/package/luci-theme-opentopd
-        git clone -b 18.06 https://github.com/garypang13/luci-theme-edge openwrt/package/luci-theme-edge
+        git clone https://github.com/stephenchou888/luci-theme-edge openwrt/package/luci-theme-edge
         git clone https://github.com/jerrykuku/lua-maxminddb openwrt/package/helloworld/lua-maxminddb
         git clone https://github.com/jerrykuku/luci-app-vssr openwrt/package/helloworld/luci-app-vssr
 
