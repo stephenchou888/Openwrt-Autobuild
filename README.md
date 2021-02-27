@@ -8,3 +8,5 @@ https://github.com/coolsnowwolf/lede
 https://github.com/P3TERX/Actions-OpenWrt/
 
 https://github.com/esirplayground/AutoBuild-OpenWrt
+
+此脚本自动编译固件为ESIR小精品固件加入adguardhome smartdns passwall vssr以及几位大佬主题
