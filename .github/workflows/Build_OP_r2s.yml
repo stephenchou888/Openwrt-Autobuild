@@ -80,6 +80,7 @@ jobs:
         git clone https://github.com/stephenchou888/luci-theme-edge openwrt/package/luci-theme-edge
         git clone https://github.com/jerrykuku/lua-maxminddb openwrt/package/helloworld/lua-maxminddb
         git clone https://github.com/jerrykuku/luci-app-vssr openwrt/package/helloworld/luci-app-vssr
+        git clone https://github.com/esirplayground/luci-app-poweroff openwrt/package/luci-app-poweroff
 
     - name: Configuration Customization - Build_r2s
       env:
